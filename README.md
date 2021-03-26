@@ -1,5 +1,5 @@
 
-Project: Predicting the price of rental property.
+Project:: Predicting the price of rental property.
 
 - Dataset: NY-AirBNB rentals
 
